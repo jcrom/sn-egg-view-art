@@ -1,10 +1,7 @@
 # egg-view-art
 
 [![NPM version][npm-image]][npm-url]
-[![Travis Status](https://img.shields.io/travis/1021683053/egg-view-art/master.svg?label=travis)](https://www.travis-ci.org/1021683053/egg-view-art)
 
-[npm-image]: https://img.shields.io/npm/v/egg-view-art.svg
-[npm-url]: https://npmjs.org/package/egg-view-art
 
 ## Install
 
@@ -38,7 +35,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/1021683053/egg-view-art/issues).
+Please open an issue [here](https://github.com/jcrom/sn-egg-view-art/issues).
 
 ## License
 
