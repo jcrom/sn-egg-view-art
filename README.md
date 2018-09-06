@@ -6,7 +6,8 @@
 ## Install
 
 ```bash
-$ npm i egg-view-art --save
+$ npm set registry http://snpm.cnsuning.com/
+$ npm i sn-egg-view-art --save
 ```
 
 ## Usage
@@ -15,7 +16,7 @@ $ npm i egg-view-art --save
 // {app_root}/config/plugin.js
 exports.art = {
   enable: true,
-  package: 'egg-view-art',
+  package: 'sn-egg-view-art',
 };
 ```
 
