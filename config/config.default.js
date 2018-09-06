@@ -5,7 +5,6 @@
  * @member Config#eggViewArt
  * @property {String} SOME_KEY - some description
  */
-'use strict';
 
 const path = require('path');
 
